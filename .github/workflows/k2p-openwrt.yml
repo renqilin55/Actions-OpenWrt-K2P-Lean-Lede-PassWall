@@ -1,4 +1,4 @@
-name: Build OpenWrt
+name: k2p OpenWrt
 
 on:
   repository_dispatch:
